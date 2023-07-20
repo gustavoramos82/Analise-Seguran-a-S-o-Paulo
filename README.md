@@ -12,4 +12,4 @@ outros para comparar essa separação pode influenciar em algo ou não.
 
 ## Análise Geral
 
-em construção
+Clique [aqui](https://github.com/gustavoramos82/Analise-Seguran-a-S-o-Paulo/blob/main/Texto/An%C3%A1lise%20Inicial.md) para ler esta parte
