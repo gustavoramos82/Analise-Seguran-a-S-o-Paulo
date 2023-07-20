@@ -22,3 +22,11 @@ A conclusão obtida nessa análise foi que:
       > Sobre os motivos do crescimento dos crimes de furto e roubo de veículos, Cafisso afirma que existem alguns fatores nos quais a polícia acredita que podem refletir esse fato. "Levamos em conta fatores como o crescimento populacional, desenvolvimento urbano e a frota existente. Com referência à frota, podemos concluir que, embora o número de registros de furtos e roubos tenha apresentado um aumento significativo, ele acompanhou o crescimento da frota licenciada, que dobrou nos últimos 10 anos, enquanto os registros criminais dessa modalidade tiveram um acréscimo de 91,45%", relata.
     - Logo se pode fazer uma análise se há uma relação entre numero de frota de carros com roubo de veiculos
 - De 2017 a 2020 tem uma tendência de queda nos três crime citados
+
+### Comparação entre número de carros e roubo de carros
+
+Com base nessa citação feita acima, foi feita uma busca de como a frota de carros nos últimos anos, obtida no Ibge, e que terminou no gráfico abaixo, a fim de fazer comparações
+
+![image](https://github.com/gustavoramos82/Analise-Seguran-a-S-o-Paulo/assets/39843884/ceec4244-55c1-46f9-ad57-b63ab5991288)
+
+Se olharmos o ano de 2006 a 2012 (pois foi a data que foi tirada a noticia) pode se ver alguma relação, mas nãé a único fator a ser levada em consideração, pois se olharmos para os outros anos as duas tem tendências completamente diferentes.
