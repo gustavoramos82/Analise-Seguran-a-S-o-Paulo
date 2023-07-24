@@ -30,3 +30,7 @@ Com base nessa citação feita acima, foi feita uma busca de como a frota de car
 ![image](https://github.com/gustavoramos82/Analise-Seguran-a-S-o-Paulo/assets/39843884/ceec4244-55c1-46f9-ad57-b63ab5991288)
 
 Se olharmos o ano de 2006 a 2012 (pois foi a data que foi tirada a noticia) pode se ver alguma relação, mas nãé a único fator a ser levada em consideração, pois se olharmos para os outros anos as duas tem tendências completamente diferentes.
+
+## Análise por grupos
+
+Para ler esta parte, clique [aqui](https://github.com/gustavoramos82/Analise-Seguran-a-S-o-Paulo/blob/main/Texto/an%C3%A1lise%20por%20grupo.md)
